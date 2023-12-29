@@ -212,6 +212,7 @@ Name    |    Description
 Name    |     Description
 ----    |    ----
 [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course) | as the title says, this course isn't for beginners
+[ARM 64 Exploitation Series](https://8ksec.io/arm64-reversing-and-exploitation-part-1-arm-instruction-set-simple-heap-overflow/) | A 10 part series teaching about ARM 64 reversing and exploitation.
 [Analysis and exploitation (unprivileged)](https://www.it-sec-catalog.info/analysis_and_exploitation_unprivileged.html) | huge collection of RE information,  organized by type.
 [Binary hacking](http://liveoverflow.com/binary_hacking/index.html) | 35 "no bullshit" binary videos along with other info
 [Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4) | Collection of Linux Rev. Engineering videos
